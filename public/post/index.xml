@@ -6,10 +6,37 @@
     <description>Recent content in Posts on Richard Pilbery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EMS2019 Madrid Conference</title>
+      <link>/post/ems2019-stroke/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ems2019-stroke/</guid>
+      <description>I went to EMS2019 Madrid. It was great.</description>
+    </item>
+    
+    <item>
+      <title>EMS2019 Madrid Technology Session</title>
+      <link>/post/ems2019-tech/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ems2019-tech/</guid>
+      <description>One of the sessions at EMS2019 was related to the use of technology</description>
+    </item>
+    
+    <item>
+      <title>EMS2019 Oral abstracts and MAJAX</title>
+      <link>/post/ems2019-abstracts-and-majax/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ems2019-abstracts-and-majax/</guid>
+      <description>There were a number of interesting oral abstracts as well as a MAJAX talk</description>
+    </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
@@ -27,17 +54,6 @@
       
       <guid>/post/getting-started/</guid>
       <description>Create a beautifully simple website in under 10 minutes.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
   </channel>

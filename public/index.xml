@@ -36,16 +36,348 @@
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0100</pubDate>
+      <title>EMS2019 Madrid Conference</title>
+      <link>/post/ems2019-stroke/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.
-  &lt;/div&gt;
-&lt;/div&gt;
+      <guid>/post/ems2019-stroke/</guid>
+      <description>
+
+&lt;p&gt;I recently was lucky enough to go to the EMS2019 Madrid conference in Spain. &lt;a href=&#34;https://satiated.netlify.com&#34; target=&#34;_blank&#34;&gt;SATIATED&lt;/a&gt; was shortlisted for an oral abstract. Made it into the top 10 and got some glass. Nice.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./images/presenting.jpg&#34; alt=&#34;I really was there...&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    I really was there&amp;hellip;
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;However, there were some really interesting talks and discussions at the conference and I thought it helpful to jot a few down here.&lt;/p&gt;
+
+&lt;h2 id=&#34;stroke&#34;&gt;Stroke&lt;/h2&gt;
+
+&lt;p&gt;Lots on stroke at this conference. It kicked off early with one of the initial presentations announcing the upcoming Utstein guidelines on stroke care.&lt;/p&gt;
+
+&lt;p&gt;Interesting stats:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1% of EMS calls are for stroke&lt;/li&gt;
+&lt;li&gt;&amp;gt;50% wait before calling for help&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The guidelines focus on 5 themes:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Stroke registry&lt;/li&gt;
+&lt;li&gt;Early recognition
+
+&lt;ul&gt;
+&lt;li&gt;Public
+
+&lt;ul&gt;
+&lt;li&gt;Implement novel stroke awareness campaigns&lt;/li&gt;
+&lt;li&gt;Educated public about needing utilise ambulance service&lt;/li&gt;
+&lt;li&gt;Educate the younger generation, not just (older) at-risk population&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Medical
+
+&lt;ul&gt;
+&lt;li&gt;Improve EMS education for op staff and dispatchers&lt;/li&gt;
+&lt;li&gt;Encourage use of FAST&lt;/li&gt;
+&lt;li&gt;Focus on in-hospital stroke education (?for patients) during initial stroke admission to identify stroke risk factors and importance of FAST/calling ambulance
++Appoint stroke educators&lt;/li&gt;
+&lt;li&gt;Remove need for family member consent before thrombolysis&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Structural
+
+&lt;ul&gt;
+&lt;li&gt;Develop stroke centre capability maps to assist EMS&lt;/li&gt;
+&lt;li&gt;Develop telemedicine networks, particularly in remote areas&lt;/li&gt;
+&lt;li&gt;Develop support systems to enable patients and families to afford the cost of drugs and other treatment after discharge&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Prehospital care&lt;/li&gt;
+&lt;li&gt;Emergency Care&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;10 programmes to increase survival:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Establish a stroke registry&lt;/li&gt;
+&lt;li&gt;Create public awareness&lt;/li&gt;
+&lt;li&gt;Start public education&lt;/li&gt;
+&lt;li&gt;Improve early recognition&lt;/li&gt;
+&lt;li&gt;Practice rapid and timely dispatch&lt;/li&gt;
+&lt;li&gt;Optimise prehospital stroke care and triage&lt;/li&gt;
+&lt;li&gt;Optimise in-hospital basic and advanced care&lt;/li&gt;
+&lt;li&gt;User smart technologies&lt;/li&gt;
+&lt;li&gt;Demonstrate accountability&lt;/li&gt;
+&lt;li&gt;Create a culture of excellence&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;in-hospital-basic-and-advanced-care&#34;&gt;In-Hospital Basic and Advanced Care&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pre-notification of incoming stroke by paramedics&lt;/li&gt;
+&lt;li&gt;Activating stroke team&lt;/li&gt;
+&lt;li&gt;Rapid patient registration&lt;/li&gt;
+&lt;li&gt;Moving patient direct to CT scanner by EMS&lt;/li&gt;
+&lt;li&gt;Not waiting for lab results, unless indicated (e.g. INR)&lt;/li&gt;
+&lt;li&gt;Administering alteplase (tPA) in the CT scanner of telestroke bay&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;chain-of-stroke-survival&#34;&gt;Chain of stroke survival&lt;/h3&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34; data-dnt=&#34;true&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Stroke chain of survival / system of care &lt;a href=&#34;https://twitter.com/hashtag/ems2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ems2019&lt;/a&gt; &lt;a href=&#34;https://t.co/vp4h7ieXUD&#34;&gt;pic.twitter.com/vp4h7ieXUD&lt;/a&gt;&lt;/p&gt;&amp;mdash; Luke Morrison (@lukemorrison89) &lt;a href=&#34;https://twitter.com/lukemorrison89/status/1121718765773889538?ref_src=twsrc%5Etfw&#34;&gt;April 26, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;h2 id=&#34;stroke-sessions&#34;&gt;Stroke sessions&lt;/h2&gt;
+
+&lt;p&gt;Really interesting talk from Tony Rudd, a Stroke Consultant at St Thomas’ Hospital and the National Clinical Director for Stroke with NHS England and the London Stroke Clinical Director.&lt;/p&gt;
+
+&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Burden of stroke in Europe  - 45% increase in stroke deaths and 32% more DALYs in next 20 years + (2015-2035)&lt;/li&gt;
+&lt;li&gt;Revascularisation only benefits 5% of stroke patients&lt;/li&gt;
+&lt;li&gt;10% patients die&lt;/li&gt;
+&lt;li&gt;30% spontaneously recover with good basic care&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./images/thrombectomy-in-context.jpg&#34; alt=&#34;Thrombolysis and thrombectomy in context - most patients won&amp;#39;t benefit from revascularisation so good stroke care and rehab is essential&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Thrombolysis and thrombectomy in context - most patients won&amp;rsquo;t benefit from revascularisation so good stroke care and rehab is essential
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;major-barriers&#34;&gt;Major barriers&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Poor public knowledge/recognition&lt;/li&gt;
+&lt;li&gt;Inefficient processes pre-hospital/front-door&lt;/li&gt;
+&lt;li&gt;Thrombectomy services not yet established&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;recognition&#34;&gt;Recognition&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;FAST best of a bad lot
+
+&lt;ul&gt;
+&lt;li&gt;100 screened&lt;/li&gt;
+&lt;li&gt;62 have stroke/TIA&lt;/li&gt;
+&lt;li&gt;7 missed&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;response&#34;&gt;Response&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Praised Copenhagen for 21 minute median on-scene time (IQR 16-27 mins)
+
+&lt;ul&gt;
+&lt;li&gt;(Drenck, N., Viereck, S., Bækgaard, J. S., Christensen, K. B., Lippert, F., &amp;amp; Folke, F. (2019). Pre-hospital management of acute stroke patients eligible for thrombolysis – an evaluation of ambulance on-scene time. Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine, 27(1), 3. &lt;a href=&#34;https://doi.org/10.1186/s13049-018-0580-4&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1186/s13049-018-0580-4&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Just about to start project in England - data linkage to include total patient journey time (to justify specialist centres which may lead to increase ambulance journey times). 
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./images/audit.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/li&gt;
+&lt;li&gt;Not that enthusiastic about stroke ambulances. Felt it was better to have more efficient front door hospital services. Walter 2012 - faster call to decision time (35 vs 76 mins) with stroke ambulance. Walter, S., Kostopoulos, P., Haass, A., Keller, I., Lesmeister, M., Schlechtriemen, T., … Fassbender, K. (2012). Diagnosis and treatment of patients with stroke in a mobile stroke unit versus in hospital: A randomised controlled trial. The Lancet Neurology, 11(5), 397–404. &lt;a href=&#34;https://doi.org/10.1016/S1474-4422(12)70057-1&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/S1474-4422(12)70057-1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;sentinal-stroke-national-audit-data-2017-18&#34;&gt;Sentinal stroke national audit data 2017-18:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Shortening door to needle time important
+
+&lt;ul&gt;
+&lt;li&gt;Pre-alerts&lt;/li&gt;
+&lt;li&gt;Stroke team waiting etc.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;lengthening-windows-for-some-type-of-strokes&#34;&gt;Lengthening windows for some type of strokes:&lt;/h3&gt;
+
+&lt;p&gt;Endovascular thrombectomy for ischemic stroke 6 to 16 hours (up to 24 hours in Nogueira study)  after a patient was last known to be well plus standard medical therapy resulted in better functional outcomes than standard medical therapy alone among patients with proximal middle-cerebral-artery or internal-carotid-artery occlusion and a region of tissue that was ischemic but not yet infarcted.&lt;/p&gt;
+
+&lt;p&gt;Albers, G. W., Marks, M. P., Kemp, S., Christensen, S., Tsai, J. P., Ortega-Gutierrez, S., … Lansberg, M. G. (2018). Thrombectomy for Stroke at 6 to 16 Hours with Selection by Perfusion Imaging. New England Journal of Medicine, 378(8), 708–718. &lt;a href=&#34;https://doi.org/10.1056/NEJMoa1713973&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1056/NEJMoa1713973&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Nogueira, R. G., Jadhav, A. P., Haussen, D. C., Bonafe, A., Budzik, R. F., Bhuva, P., … Jovin, T. G. (2018). Thrombectomy 6 to 24 Hours after Stroke with a Mismatch between Deficit and Infarct. New England Journal of Medicine, 378(1), 11–21. &lt;a href=&#34;https://doi.org/10.1056/NEJMoa1706442&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1056/NEJMoa1706442&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;which-scale-for-lvo-recognition-la-motor-scale&#34;&gt;Which scale for LVO recognition? LA motor scale:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mdcalc.com/los-angeles-motor-scale-lams&#34; target=&#34;_blank&#34;&gt;https://www.mdcalc.com/los-angeles-motor-scale-lams&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;RACE scale: &lt;a href=&#34;https://www.mdcalc.com/rapid-arterial-occlusion-evaluation-race-scale-stroke&#34; target=&#34;_blank&#34;&gt;https://www.mdcalc.com/rapid-arterial-occlusion-evaluation-race-scale-stroke&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./images/conclusion.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EMS2019 Madrid Technology Session</title>
+      <link>/post/ems2019-tech/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ems2019-tech/</guid>
+      <description>
+
+&lt;h2 id=&#34;enganging-1st-responders-using-an-app-in-paris&#34;&gt;Enganging 1st responders using an app in Paris&lt;/h2&gt;
+
+&lt;p&gt;This presentation was given by Lionel Lamhaut. He stated that the mean response time in France is 14 mins. Recent change in French law means that citizens are no longer liable for adverse events that occur secondary to administering care to others.&lt;/p&gt;
+
+&lt;p&gt;Developed &lt;a href=&#34;https://sauvlife.fr/&#34; target=&#34;_blank&#34;&gt;Citizen rescuer app&lt;/a&gt;, similar to &lt;a href=&#34;https://www.goodsamapp.org/&#34; target=&#34;_blank&#34;&gt;GoodSAM&lt;/a&gt; and has video conferencing too! Highlighted importance of contacting responders to check they are okay (Zijlstra, J. A., Beesems, S. G., De Haan, R. J., &amp;amp; Koster, R. W. (2015). Psychological impact on dispatched local lay rescuers performing bystander cardiopulmonary resuscitation. Resuscitation, 92, 115–121. &lt;a href=&#34;https://doi.org/10.1016/j.resuscitation.2015.04.028&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.resuscitation.2015.04.028&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Interestingly, they send &amp;lsquo;citizens&amp;rsquo; into people&amp;rsquo;s private residences too, which I don&amp;rsquo;t think GoodSAM do.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./images/thrombectomy-in-context.jpg&#34; alt=&#34;Thrombolysis and thrombectomy in context - most patients won&amp;#39;t benefit from revascularisation so good stroke care and rehab is essential&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Thrombolysis and thrombectomy in context - most patients won&amp;rsquo;t benefit from revascularisation so good stroke care and rehab is essential
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EMS2019 Oral abstracts and MAJAX</title>
+      <link>/post/ems2019-abstracts-and-majax/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ems2019-abstracts-and-majax/</guid>
+      <description>
+
+&lt;h2 id=&#34;lessons-learned-from-majax&#34;&gt;Lessons learned from MAJAX&lt;/h2&gt;
+
+&lt;p&gt;At times a really emotive session this one, particularly the talk delivered by David Waters from SJA NZ talking about the Christchurch shootings. Clearly still very raw.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Christchurch - whole incident took &amp;lt;1 hours&lt;/li&gt;
+&lt;li&gt;Initial investigative report due in July&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34; data-dnt=&#34;true&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;A powerful talk by &lt;a href=&#34;https://twitter.com/Davidwaters1?ref_src=twsrc%5Etfw&#34;&gt;@Davidwaters1&lt;/a&gt; from the Christchurch experience , with an overwhelming message of togetherness and support from all in the world. &lt;a href=&#34;https://twitter.com/hashtag/EMS2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#EMS2019&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/WeAreOne?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#WeAreOne&lt;/a&gt; &lt;a href=&#34;https://t.co/gBRlsPoehG&#34;&gt;pic.twitter.com/gBRlsPoehG&lt;/a&gt;&lt;/p&gt;&amp;mdash; European EMS Congress (@European_EMS) &lt;a href=&#34;https://twitter.com/European_EMS/status/1122130238266384384?ref_src=twsrc%5Etfw&#34;&gt;April 27, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Things to do (courtesy of Stefan Poloczek):&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Prepare for next MAJAX&lt;/li&gt;
+&lt;li&gt;Physical and psychological cleaning after current incident required&lt;/li&gt;
+&lt;li&gt;Debrief responders&lt;/li&gt;
+&lt;li&gt;Emphasise current feelings/emotions normal reaction to non-normal event&lt;/li&gt;
+&lt;li&gt;Care about the commanders (they made the decisions)&lt;/li&gt;
+&lt;li&gt;Prevent rumours (talk about what happened)&lt;/li&gt;
+&lt;li&gt;Take part in memorial ceremonies&lt;/li&gt;
+&lt;li&gt;Prepare for press and politician communication&lt;/li&gt;
+&lt;li&gt;Inform colleagues and other professionals&lt;/li&gt;
+&lt;li&gt;Prepare for the question - ‘Do you need more money?’&lt;/li&gt;
+&lt;li&gt;What’s next (check for next targetable event(s))&lt;/li&gt;
+&lt;li&gt;Beware of the anniverary&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This was promptly followed by a major incident exercise in the conference venue! It was meant to take place in a nearby military airfield, but the Minister of defence cancelled it! It was quite good fun really.&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34; data-dnt=&#34;true&#34;&gt;&lt;p lang=&#34;es&#34; dir=&#34;ltr&#34;&gt;Esencial la coordinación durante el ejercicio de simulación con múltiples víctimas. &lt;a href=&#34;https://twitter.com/hashtag/IMV?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#IMV&lt;/a&gt;&lt;a href=&#34;https://twitter.com/hashtag/EMS2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#EMS2019&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Teamwork?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Teamwork&lt;/a&gt; &lt;a href=&#34;https://t.co/wHC0WTya2B&#34;&gt;pic.twitter.com/wHC0WTya2B&lt;/a&gt;&lt;/p&gt;&amp;mdash; JEAN CARLOS MARQUEZ (@JeanUNEFA) &lt;a href=&#34;https://twitter.com/JeanUNEFA/status/1122180693491113984?ref_src=twsrc%5Etfw&#34;&gt;April 27, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;blockquote class=&#34;twitter-tweet&#34; data-dnt=&#34;true&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;SIMULATION THIS IS NOT REAL Large fleet of SAMU ambulances arriving on scene &lt;a href=&#34;https://twitter.com/hashtag/EMS2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#EMS2019&lt;/a&gt; &lt;a href=&#34;https://t.co/2Wx7PjxfTx&#34;&gt;pic.twitter.com/2Wx7PjxfTx&lt;/a&gt;&lt;/p&gt;&amp;mdash; European EMS Congress (@European_EMS) &lt;a href=&#34;https://twitter.com/European_EMS/status/1122142475479605248?ref_src=twsrc%5Etfw&#34;&gt;April 27, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;blockquote class=&#34;twitter-tweet&#34; data-dnt=&#34;true&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Pretty impressive major incident drill from &lt;a href=&#34;https://twitter.com/SAMUR_PC?ref_src=twsrc%5Etfw&#34;&gt;@SAMUR_PC&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/EMS2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#EMS2019&lt;/a&gt; When did your EMS last live drill with this many vehicles?! &lt;a href=&#34;https://t.co/E9gyFa4sLI&#34;&gt;pic.twitter.com/E9gyFa4sLI&lt;/a&gt;&lt;/p&gt;&amp;mdash; Richard Lyon (@drrichardlyon) &lt;a href=&#34;https://twitter.com/drrichardlyon/status/1122143497178492929?ref_src=twsrc%5Etfw&#34;&gt;April 27, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;blockquote class=&#34;twitter-tweet&#34; data-dnt=&#34;true&#34;&gt;&lt;p lang=&#34;es&#34; dir=&#34;ltr&#34;&gt;📽 Ejercicio de simulación en el Congreso &lt;a href=&#34;https://twitter.com/hashtag/EMS2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#EMS2019&lt;/a&gt; 🗺&lt;a href=&#34;https://twitter.com/hashtag/Simulation?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Simulation&lt;/a&gt;  &lt;a href=&#34;https://twitter.com/hashtag/IMV?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#IMV&lt;/a&gt; &lt;br&gt;👨‍⚕️👩‍⚕️ 🚑 🚑 🚑&lt;a href=&#34;https://twitter.com/European_EMS?ref_src=twsrc%5Etfw&#34;&gt;@European_EMS&lt;/a&gt; &lt;a href=&#34;https://twitter.com/FreddyLippert?ref_src=twsrc%5Etfw&#34;&gt;@FreddyLippert&lt;/a&gt; &lt;a href=&#34;https://t.co/Ox6q3vtm6b&#34;&gt;pic.twitter.com/Ox6q3vtm6b&lt;/a&gt;&lt;/p&gt;&amp;mdash; SAMUR - Prot. Civil (@SAMUR_PC) &lt;a href=&#34;https://twitter.com/SAMUR_PC/status/1122196864609280000?ref_src=twsrc%5Etfw&#34;&gt;April 27, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;blockquote class=&#34;twitter-tweet&#34; data-dnt=&#34;true&#34;&gt;&lt;p lang=&#34;es&#34; dir=&#34;ltr&#34;&gt;Un increíble ejercicio de víctimas masivas que involucra a todos los &lt;a href=&#34;https://twitter.com/hashtag/EMS2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#EMS2019&lt;/a&gt; delegados. Brillante para ver a los médicos, enfermeras y paramédicos de todo el mundo se elevan al desafío y trabajan tan bien juntos &lt;a href=&#34;https://twitter.com/hashtag/teamwork?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#teamwork&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/parateam?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#parateam&lt;/a&gt;.-&lt;br&gt;----------&lt;a href=&#34;https://t.co/D8oVeCjBRH&#34;&gt;https://t.co/D8oVeCjBRH&lt;/a&gt; &lt;a href=&#34;https://t.co/8hjn58YTaE&#34;&gt;pic.twitter.com/8hjn58YTaE&lt;/a&gt;&lt;/p&gt;&amp;mdash; GALICIAMBULANCIA (@GalizAmbulancia) &lt;a href=&#34;https://twitter.com/GalizAmbulancia/status/1122238707220791296?ref_src=twsrc%5Etfw&#34;&gt;April 27, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;blockquote class=&#34;twitter-tweet&#34; data-dnt=&#34;true&#34;&gt;&lt;p lang=&#34;es&#34; dir=&#34;ltr&#34;&gt;📢 ¡Nuestros congresistas se han visto sorprendidos por un incidente de múltiples víctimas &lt;a href=&#34;https://twitter.com/hashtag/IMV?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#IMV&lt;/a&gt;! &lt;a href=&#34;https://twitter.com/hashtag/EMS2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#EMS2019&lt;/a&gt; &lt;a href=&#34;https://t.co/oXm9UExW21&#34;&gt;pic.twitter.com/oXm9UExW21&lt;/a&gt;&lt;/p&gt;&amp;mdash; JEAN CARLOS MARQUEZ (@JeanUNEFA) &lt;a href=&#34;https://twitter.com/JeanUNEFA/status/1122163034137530368?ref_src=twsrc%5Etfw&#34;&gt;April 27, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;blockquote class=&#34;twitter-tweet&#34; data-dnt=&#34;true&#34;&gt;&lt;p lang=&#34;es&#34; dir=&#34;ltr&#34;&gt;📢 En este ejercicio de simulación,  equipos nacionales e internacionales, han clasificado y asistido a las 50 víctimas hasta la llegada de las unidades de SAMUR_PC. &lt;a href=&#34;https://twitter.com/hashtag/IMV?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#IMV&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/EMS2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#EMS2019&lt;/a&gt; 🗺 &lt;a href=&#34;https://t.co/RfZp896y41&#34;&gt;pic.twitter.com/RfZp896y41&lt;/a&gt;&lt;/p&gt;&amp;mdash; JEAN CARLOS MARQUEZ (@JeanUNEFA) &lt;a href=&#34;https://twitter.com/JeanUNEFA/status/1122165619946938368?ref_src=twsrc%5Etfw&#34;&gt;April 27, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;This website does not track your interaction or activity. The embedded Tweets have been set to not track you, but if you click on them and visit Twitter&amp;rsquo;s website, all bets are off. I&amp;rsquo;ve also set the privacy enhanced mode on YouTube, but I think this does not work once you click on the video.&lt;/p&gt;
+
+&lt;p&gt;The only cookies are those from font-awesome and openstreetmap. You can disable both if you wish.&lt;/p&gt;
 </description>
     </item>
     
@@ -55,60 +387,13 @@
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/jupyter/</guid>
-      <description>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34; data-dnt=&#34;true&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Hugo 0.24 Released: Big archetype update + &lt;a href=&#34;https://twitter.com/Netlify?ref_src=twsrc%5Etfw&#34;&gt;@Netlify&lt;/a&gt; _redirects etc. file support&lt;a href=&#34;https://t.co/X94FmYDEZJ&#34;&gt;https://t.co/X94FmYDEZJ&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/gohugo?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#gohugo&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/golang?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#golang&lt;/a&gt; &lt;a href=&#34;https://twitter.com/spf13?ref_src=twsrc%5Etfw&#34;&gt;@spf13&lt;/a&gt; &lt;a href=&#34;https://twitter.com/bepsays?ref_src=twsrc%5Etfw&#34;&gt;@bepsays&lt;/a&gt;&lt;/p&gt;&amp;mdash; GoHugo.io (@GoHugoIO) &lt;a href=&#34;https://twitter.com/GoHugoIO/status/877500564405444608?ref_src=twsrc%5Etfw&#34;&gt;June 21, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
 
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;img src=&#34;./academic_0_0.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;install-python-and-jupyter&#34;&gt;Install Python and Jupyter&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and Jupyter notebook.&lt;/p&gt;
-
-&lt;p&gt;Otherwise, for advanced users, install Jupyter notebook with &lt;code&gt;pip3 install jupyter&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;create-a-new-blog-post-as-usual-https-sourcethemes-com-academic-docs-managing-content-create-a-blog-post&#34;&gt;Create a new blog post &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34; target=&#34;_blank&#34;&gt;as usual&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY_WEBSITE_FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;my-post&lt;/code&gt; with the file path to your Academic website folder and a name for your blog post (without spaces), respectively:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;
-hugo new  --kind post post/my-post
-cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;/content/post/my-post/
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-
-&lt;p&gt;Run the following command to start Jupyter within your new blog post folder. Then create a new Jupyter notebook (&lt;em&gt;New &amp;gt; Python Notebook&lt;/em&gt;) or upload a notebook.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter notebook
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert Untitled.ipynb --to markdown --NbConvertApp.output_files_dir=.
-
-# Copy the contents of Untitled.md and append it to index.md:
-cat Untitled.md | tee -a index.md
-
-# Remove the temporary file:
-rm Untitled.md
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-
-&lt;p&gt;Open &lt;code&gt;index.md&lt;/code&gt; in your text editor and edit the title etc. in the &lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34;&gt;front matter&lt;/a&gt; according to your preference.&lt;/p&gt;
-
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-
-&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -295,6 +580,15 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Soiled airway tracheal intubation and the effectiveness of decontamination by paramedics: a randomised controlled manikin study protocol</title>
+      <link>/publication/satiated-protocol/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/satiated-protocol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Page</title>
       <link>/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
@@ -311,16 +605,6 @@ $$&lt;/p&gt;
 &lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
 
 &lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
@@ -677,85 +961,6 @@ $$&lt;/p&gt;
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>
-
-
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.
-  &lt;/div&gt;
-&lt;/div&gt;
 </description>
     </item>
     

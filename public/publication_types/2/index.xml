@@ -6,18 +6,18 @@
     <description>Recent content in 2 on Richard Pilbery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0100</pubDate>
+      <title>Soiled airway tracheal intubation and the effectiveness of decontamination by paramedics: a randomised controlled manikin study protocol</title>
+      <link>/publication/satiated-protocol/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
       
-      <guid>/publication/journal-article/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
+      <guid>/publication/satiated-protocol/</guid>
+      <description>The SATIATED study protocol.</description>
     </item>
     
   </channel>

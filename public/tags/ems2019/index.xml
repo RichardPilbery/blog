@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EMS2019 on Richard Pilbery</title>
+    <link>/tags/ems2019/</link>
+    <description>Recent content in EMS2019 on Richard Pilbery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ems2019/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EMS2019 Madrid Conference</title>
+      <link>/post/ems2019-stroke/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ems2019-stroke/</guid>
+      <description>I went to EMS2019 Madrid. It was great.</description>
+    </item>
+    
+    <item>
+      <title>EMS2019 Madrid Technology Session</title>
+      <link>/post/ems2019-tech/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ems2019-tech/</guid>
+      <description>One of the sessions at EMS2019 was related to the use of technology</description>
+    </item>
+    
+    <item>
+      <title>EMS2019 Oral abstracts and MAJAX</title>
+      <link>/post/ems2019-abstracts-and-majax/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ems2019-abstracts-and-majax/</guid>
+      <description>There were a number of interesting oral abstracts as well as a MAJAX talk</description>
+    </item>
+    
+  </channel>
+</rss>

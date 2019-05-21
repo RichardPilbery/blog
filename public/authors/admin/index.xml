@@ -6,18 +6,36 @@
     <description>Recent content in admin on Richard Pilbery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0100</pubDate>
+      <title>EMS2019 Madrid Conference</title>
+      <link>/post/ems2019-stroke/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/preprint/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
+      <guid>/post/ems2019-stroke/</guid>
+      <description>I went to EMS2019 Madrid. It was great.</description>
+    </item>
+    
+    <item>
+      <title>EMS2019 Madrid Technology Session</title>
+      <link>/post/ems2019-tech/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ems2019-tech/</guid>
+      <description>One of the sessions at EMS2019 was related to the use of technology</description>
+    </item>
+    
+    <item>
+      <title>EMS2019 Oral abstracts and MAJAX</title>
+      <link>/post/ems2019-abstracts-and-majax/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ems2019-abstracts-and-majax/</guid>
+      <description>There were a number of interesting oral abstracts as well as a MAJAX talk</description>
     </item>
     
     <item>
@@ -30,30 +48,21 @@
     </item>
     
     <item>
+      <title>Soiled airway tracheal intubation and the effectiveness of decontamination by paramedics: a randomised controlled manikin study protocol</title>
+      <link>/publication/satiated-protocol/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/satiated-protocol/</guid>
+      <description>The SATIATED study protocol.</description>
+    </item>
+    
+    <item>
       <title>Academic: the website builder for Hugo</title>
       <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>Create a beautifully simple website in under 10 minutes.</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/journal-article/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/conference-paper/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
     </item>
     
     <item>

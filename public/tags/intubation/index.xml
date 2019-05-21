@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intubation on Richard Pilbery</title>
+    <link>/tags/intubation/</link>
+    <description>Recent content in intubation on Richard Pilbery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/intubation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Soiled airway tracheal intubation and the effectiveness of decontamination by paramedics: a randomised controlled manikin study protocol</title>
+      <link>/publication/satiated-protocol/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/satiated-protocol/</guid>
+      <description>The SATIATED study protocol.</description>
+    </item>
+    
+  </channel>
+</rss>
