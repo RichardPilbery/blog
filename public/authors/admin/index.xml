@@ -6,10 +6,28 @@
     <description>Recent content in admin on Richard Pilbery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The SATIATED Study</title>
+      <link>/slides/satiated-cqdf/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/satiated-cqdf/</guid>
+      <description>Short presentation of SATIATED results</description>
+    </item>
+    
+    <item>
+      <title>SATIATED Presentation for CQDF</title>
+      <link>/talk/satiated-cqdf/</link>
+      <pubDate>Wed, 22 May 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/talk/satiated-cqdf/</guid>
+      <description>Presenting SATIATED results to CQDF.</description>
+    </item>
     
     <item>
       <title>EMS2019 Madrid Conference</title>
@@ -36,15 +54,6 @@
       
       <guid>/post/ems2019-abstracts-and-majax/</guid>
       <description>There were a number of interesting oral abstracts as well as a MAJAX talk</description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/jupyter/</guid>
-      <description>Learn how to blog in Academic using Jupyter notebooks</description>
     </item>
     
     <item>

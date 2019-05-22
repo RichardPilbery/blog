@@ -6,18 +6,18 @@
     <description>Recent content in Slides on Richard Pilbery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/slides/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Slides</title>
-      <link>/slides/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <title>The SATIATED Study</title>
+      <link>/slides/satiated-cqdf/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/slides/example/</guid>
-      <description>An introduction to using Academic&amp;rsquo;s Slides feature.</description>
+      <guid>/slides/satiated-cqdf/</guid>
+      <description>Short presentation of SATIATED results</description>
     </item>
     
   </channel>

@@ -6,18 +6,18 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Richard Pilbery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2019 13:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0100</pubDate>
+      <title>SATIATED Presentation for CQDF</title>
+      <link>/talk/satiated-cqdf/</link>
+      <pubDate>Wed, 22 May 2019 13:00:00 +0000</pubDate>
       
-      <guid>/talk/example/</guid>
-      <description>An example talk using Academic&amp;rsquo;s Markdown slides feature.</description>
+      <guid>/talk/satiated-cqdf/</guid>
+      <description>Presenting SATIATED results to CQDF.</description>
     </item>
     
   </channel>

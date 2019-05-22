@@ -26,6 +26,8 @@ disqusShortname = ""
   #   Anonymize IP in Google Analytics (if enabled)
 privacy_pack = true
 
+custom_css = ['reveal.css']
+
 ############################
 ## Advanced options below ##
 ############################
