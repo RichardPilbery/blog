@@ -4,7 +4,41 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-28T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ems2019/</loc>
+    <lastmod>2019-05-28T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talk/ems2019-cqdf/</loc>
+    <lastmod>2019-05-28T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-05-28T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-05-28T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-05-28T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-05-28T13:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -15,9 +49,8 @@
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/slides/ems2019-cqdf/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -27,20 +60,8 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/slides/satiated-cqdf/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -68,23 +89,17 @@
   </url>
   
   <url>
-    <loc>/talk/</loc>
-    <lastmod>2019-05-22T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/satiated-cqdf/</loc>
     <lastmod>2019-05-22T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/ems2019/</loc>
+    <loc>/post/ems2019-stroke/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/ems2019-stroke/</loc>
+    <loc>/post/ems2019-oral-abstracts/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -94,7 +109,7 @@
   </url>
   
   <url>
-    <loc>/post/ems2019-abstracts-and-majax/</loc>
+    <loc>/post/ems2019-majax/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -110,25 +125,19 @@
   </url>
   
   <url>
-    <loc>/tags/txa/</loc>
-    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/goodsam/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/majax/</loc>
+    <loc>/categories/majax/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/social-care/</loc>
+    <loc>/tags/majax/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -238,17 +247,6 @@
     <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+01:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+01:00</lastmod>
   </url>
   
   <url>

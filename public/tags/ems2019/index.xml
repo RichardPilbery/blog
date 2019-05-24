@@ -6,10 +6,28 @@
     <description>Recent content in EMS2019 on Richard Pilbery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 13:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/ems2019/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EMS2019 Presentation for CQDF</title>
+      <link>/talk/ems2019-cqdf/</link>
+      <pubDate>Tue, 28 May 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/talk/ems2019-cqdf/</guid>
+      <description>Overview of EMS2019 Madrid conference for CQDF.</description>
+    </item>
+    
+    <item>
+      <title>EMS 2019</title>
+      <link>/slides/ems2019-cqdf/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/ems2019-cqdf/</guid>
+      <description>Short presentation of EMS2019</description>
+    </item>
     
     <item>
       <title>EMS2019 Madrid Conference</title>
@@ -18,6 +36,15 @@
       
       <guid>/post/ems2019-stroke/</guid>
       <description>I went to EMS2019 Madrid. It was great.</description>
+    </item>
+    
+    <item>
+      <title>EMS2019 Madrid Oral abstracts and posters</title>
+      <link>/post/ems2019-oral-abstracts/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ems2019-oral-abstracts/</guid>
+      <description>Oral abstracts and posters from EMS2019 Madrid</description>
     </item>
     
     <item>
@@ -30,11 +57,11 @@
     </item>
     
     <item>
-      <title>EMS2019 Oral abstracts and MAJAX</title>
-      <link>/post/ems2019-abstracts-and-majax/</link>
+      <title>EMS2019 Major incident exercise</title>
+      <link>/post/ems2019-majax/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/ems2019-abstracts-and-majax/</guid>
+      <guid>/post/ems2019-majax/</guid>
       <description>There were a number of interesting oral abstracts as well as a MAJAX talk</description>
     </item>
     

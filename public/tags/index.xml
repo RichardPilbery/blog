@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Richard Pilbery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 13:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EMS2019</title>
+      <link>/tags/ems2019/</link>
+      <pubDate>Tue, 28 May 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/tags/ems2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>research</title>
@@ -39,29 +48,11 @@
     </item>
     
     <item>
-      <title>EMS2019</title>
-      <link>/tags/ems2019/</link>
-      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ems2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>OHCA</title>
       <link>/tags/ohca/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/ohca/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TXA</title>
-      <link>/tags/txa/</link>
-      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/txa/</guid>
       <description></description>
     </item>
     
@@ -80,15 +71,6 @@
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/majax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>social care</title>
-      <link>/tags/social-care/</link>
-      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/social-care/</guid>
       <description></description>
     </item>
     
@@ -152,15 +134,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Academic</title>
-      <link>/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/academic/</guid>
       <description></description>
     </item>
     

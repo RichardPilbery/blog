@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-categories: []
+categories: [research]
 date: "2019-05-21T00:00:00Z"
 draft: false
 image:

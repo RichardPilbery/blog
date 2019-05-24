@@ -19,12 +19,10 @@ title: The SATIATED Study
 
 --- 
 
-{{< slide background-color="#BCE78A" >}}
 ## Suction Assisted Laryngoscopy and Airway Decontamination 
 
 ---
 
-{{< slide background-color="#BCE78A" >}}
 
 {{< youtube bwW_MM5I2uQ >}}
 
@@ -35,7 +33,6 @@ title: The SATIATED Study
 
 ---
 
-{{< slide background-color="#BCE78A" >}}
 ## Study Design
 
 164 paramedics
@@ -54,8 +51,6 @@ Two groups, three intubation attempts:
 Proportion of successful intubations between groups on the second intubation attempt
 
 ---
-
-{{< slide background-color="#BCE78A" >}}
 
 ## Results
 
@@ -78,7 +73,6 @@ Difference 36.5%
 
 ---
 
-{{< slide background-color="#BCE78A" >}}
 
 In this **manikin study**, **paramedics** were able to **intubate a soiled airway** significantly **more often** when using the **SALAD** technique.
 
@@ -90,7 +84,6 @@ In this **manikin study**, **paramedics** were able to **intubate a soiled airwa
 
 ---
 
-{{< slide background-color="#BCE78A" >}}
 
 ## Things to consider
 

@@ -20,5 +20,14 @@
       <description>Short presentation of SATIATED results</description>
     </item>
     
+    <item>
+      <title>SATIATED Presentation for CQDF</title>
+      <link>/talk/satiated-cqdf/</link>
+      <pubDate>Wed, 22 May 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/talk/satiated-cqdf/</guid>
+      <description>Presenting SATIATED results to CQDF.</description>
+    </item>
+    
   </channel>
 </rss>

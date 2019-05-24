@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>EMS2019 Madrid Oral abstracts and posters</title>
+      <link>/post/ems2019-oral-abstracts/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ems2019-oral-abstracts/</guid>
+      <description>Oral abstracts and posters from EMS2019 Madrid</description>
+    </item>
+    
+    <item>
       <title>EMS2019 Madrid Technology Session</title>
       <link>/post/ems2019-tech/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
@@ -30,21 +39,12 @@
     </item>
     
     <item>
-      <title>EMS2019 Oral abstracts and MAJAX</title>
-      <link>/post/ems2019-abstracts-and-majax/</link>
+      <title>EMS2019 Major incident exercise</title>
+      <link>/post/ems2019-majax/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/ems2019-abstracts-and-majax/</guid>
+      <guid>/post/ems2019-majax/</guid>
       <description>There were a number of interesting oral abstracts as well as a MAJAX talk</description>
-    </item>
-    
-    <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/post/getting-started/</guid>
-      <description>Create a beautifully simple website in under 10 minutes.</description>
     </item>
     
   </channel>

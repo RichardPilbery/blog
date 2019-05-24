@@ -20,7 +20,7 @@ projects:
 publishDate: "2019-05-22T00:00:00Z"
 slides: satiated-cqdf
 summary: Presenting SATIATED results to CQDF.
-tags: []
+tags: [SALAD, research]
 title: SATIATED Presentation for CQDF
 url_code: ""
 url_pdf: ""

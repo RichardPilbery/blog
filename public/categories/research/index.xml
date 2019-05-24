@@ -12,12 +12,48 @@
     
     
     <item>
+      <title>EMS 2019</title>
+      <link>/slides/ems2019-cqdf/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/ems2019-cqdf/</guid>
+      <description>Short presentation of EMS2019</description>
+    </item>
+    
+    <item>
       <title>The SATIATED Study</title>
       <link>/slides/satiated-cqdf/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/slides/satiated-cqdf/</guid>
       <description>Short presentation of SATIATED results</description>
+    </item>
+    
+    <item>
+      <title>EMS2019 Madrid Conference</title>
+      <link>/post/ems2019-stroke/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ems2019-stroke/</guid>
+      <description>I went to EMS2019 Madrid. It was great.</description>
+    </item>
+    
+    <item>
+      <title>EMS2019 Madrid Oral abstracts and posters</title>
+      <link>/post/ems2019-oral-abstracts/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ems2019-oral-abstracts/</guid>
+      <description>Oral abstracts and posters from EMS2019 Madrid</description>
+    </item>
+    
+    <item>
+      <title>EMS2019 Madrid Technology Session</title>
+      <link>/post/ems2019-tech/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ems2019-tech/</guid>
+      <description>One of the sessions at EMS2019 was related to the use of technology</description>
     </item>
     
   </channel>

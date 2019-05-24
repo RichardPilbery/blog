@@ -6,6 +6,10 @@
   height: 60vh;
 }
 
+body, .reveal .slide-background {
+    background-color: #BCE78A;
+}
+
 .reveal section h1, .reveal section h2, .reveal section h3, .reveal p, .reveal li {
   color: black;
   text-shadow: none;

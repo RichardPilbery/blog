@@ -6,10 +6,19 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Richard Pilbery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 22 May 2019 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 13:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EMS2019 Presentation for CQDF</title>
+      <link>/talk/ems2019-cqdf/</link>
+      <pubDate>Tue, 28 May 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/talk/ems2019-cqdf/</guid>
+      <description>Overview of EMS2019 Madrid conference for CQDF.</description>
+    </item>
     
     <item>
       <title>SATIATED Presentation for CQDF</title>
