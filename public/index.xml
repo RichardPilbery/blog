@@ -21,42 +21,212 @@
     </item>
     
     <item>
-      <title>EMS 2019</title>
+      <title>EMS2019 Madrid</title>
       <link>/slides/ems2019-cqdf/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/slides/ems2019-cqdf/</guid>
       <description>
 
-&lt;h2 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h2&gt;
-
-&lt;p&gt;This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; target=&#34;_blank&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;When you click the &lt;strong&gt;Knit&lt;/strong&gt; button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.&lt;/p&gt;
+&lt;h1 id=&#34;ems-2019&#34;&gt;EMS 2019&lt;/h1&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;slide-with-bullets&#34;&gt;Slide with Bullets&lt;/h2&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./images/stroke-chain-survival.jpg&#34;
+  &gt;
+
+
+&lt;h2 style=&#34;color:#eeeeee;&#34;&gt;Stroke chain of survival&lt;/h2&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;small&#34; href=&#34;https://twitter.com/lukemorrison89/status/1121718765773889538&#34;&gt;@lukemorrison89&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;utstein-guidelines-for-stroke&#34;&gt;Utstein guidelines for stroke&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Stroke registry&lt;/li&gt;
+&lt;li&gt;Early recognition&lt;/li&gt;
+&lt;li&gt;Structural&lt;/li&gt;
+&lt;li&gt;Pre-hospital&lt;/li&gt;
+&lt;li&gt;Emergency Care&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;utstein-guidelines-for-stroke-1&#34;&gt;Utstein guidelines for stroke&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Establish a stroke registry&lt;/li&gt;
+&lt;li&gt;Create public awareness&lt;/li&gt;
+&lt;li&gt;Start public education&lt;/li&gt;
+&lt;li&gt;Improve early recognition&lt;/li&gt;
+&lt;li&gt;Practice rapid and timely dispatch&lt;/li&gt;
+&lt;li&gt;Optimise prehospital stroke care and triage&lt;/li&gt;
+&lt;li&gt;Optimise in-hospital basic and advanced care&lt;/li&gt;
+&lt;li&gt;Using smart technologies&lt;/li&gt;
+&lt;li&gt;Demonstrate accountability&lt;/li&gt;
+&lt;li&gt;Create a culture of excellence&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;in-hospital-basic-and-advanced-care&#34;&gt;In-hospital basic and advanced care&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Bullet 1&lt;/li&gt;
-&lt;li&gt;Bullet 2&lt;/li&gt;
-&lt;li&gt;Bullet 3&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pre-alert by paramedics&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Activating stroke team&lt;/li&gt;
+&lt;li&gt;Rapid patient registration&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Moving patient direct to CT scanner by EMS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Not waiting for lab results (except e.g. INR)&lt;/li&gt;
+&lt;li&gt;Alteplase (tPA) in the CT scanner&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;slide-with-r-code-and-output&#34;&gt;Slide with R Code and Output&lt;/h2&gt;
+&lt;h2 id=&#34;tony-rudd&#34;&gt;Tony Rudd&lt;/h2&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;summary(cars)
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Stroke burden&lt;/li&gt;
+&lt;li&gt;Only 5% benefit from revascularisation&lt;/li&gt;
+&lt;li&gt;Critical of ambulance response and on-scene times&lt;/li&gt;
+&lt;li&gt;Paramedics/hospital clinicians need to work as a team&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;slide-with-plot&#34;&gt;Slide with Plot&lt;/h2&gt;
+&lt;h2 id=&#34;major-barriers&#34;&gt;Major barriers&lt;/h2&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-r,&#34;&gt;plot(cars)
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Poor public knowledge/recognition&lt;/li&gt;
+&lt;li&gt;Inefficient pre-hospital/front-door processes&lt;/li&gt;
+&lt;li&gt;Thrombectomy services not yet established&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;recognition&#34;&gt;Recognition&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;FAST best of a bad lot&lt;/li&gt;
+&lt;li&gt;100 patients screend with FAST
+
+&lt;ul&gt;
+&lt;li&gt;62 have stroke/TIA&lt;/li&gt;
+&lt;li&gt;7 missed&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;in-other-news&#34;&gt;In other news&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Data linkage project just about to commence in England
+
+&lt;ul&gt;
+&lt;li&gt;Will calculate total patient journey time&lt;/li&gt;
+&lt;li&gt;Aiming to justify specialist centres with longer ambulance journey times&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;TR not enthusiatic about stroke ambulances&lt;/li&gt;
+&lt;li&gt;Shortening door to needle time important
+
+&lt;ul&gt;
+&lt;li&gt;Pre-alerts&lt;/li&gt;
+&lt;li&gt;Stroke team waiting
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;one-more-thing&#34;&gt;One more thing&amp;hellip;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;LVO strokes may have longer window for thrombectomy&lt;/li&gt;
+&lt;li&gt;6&amp;ndash;16 hours (even up to 24 hours in one study)&lt;/li&gt;
+&lt;li&gt;Quite specific group (LVO + ischaemic region)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;major-incidents&#34;&gt;Major incidents&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;post-majax-activites&#34;&gt;Post-MAJAX activites&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prepare for next major incident&lt;/li&gt;
+&lt;li&gt;Physical and psychological cleaning after current incident required&lt;/li&gt;
+&lt;li&gt;Debrief responders&lt;/li&gt;
+&lt;li&gt;Emphasise current feelings/emotions &lt;strong&gt;normal reaction to non-normal event&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Care about the commanders (they made the decisions)&lt;/li&gt;
+&lt;li&gt;Prevent rumours (talk about what happened)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;post-majax-activites-1&#34;&gt;Post-MAJAX activites&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Take part in memorial ceremonies&lt;/li&gt;
+&lt;li&gt;Prepare for press and politician communication&lt;/li&gt;
+&lt;li&gt;Inform colleagues and other professionals&lt;/li&gt;
+&lt;li&gt;Prepare for the question - ‘Do you need more money?’&lt;/li&gt;
+&lt;li&gt;What’s next (check for next targetable event(s))&lt;/li&gt;
+&lt;li&gt;Beware of the anniverary&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;./images/majax1.jpg&#34;
+  &gt;
+
+
+&lt;h2 id=&#34;major-incident-exercise&#34;&gt;Major Incident Exercise&lt;/h2&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;small&#34; href=&#34;https://twitter.com/SAMUR_PC/status/1122179941863514112&#34;&gt;@SUMAR_PC&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34; data-dnt=&#34;true&#34;&gt;&lt;p lang=&#34;es&#34; dir=&#34;ltr&#34;&gt;📽 Ejercicio de simulación en el Congreso &lt;a href=&#34;https://twitter.com/hashtag/EMS2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#EMS2019&lt;/a&gt; 🗺&lt;a href=&#34;https://twitter.com/hashtag/Simulation?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Simulation&lt;/a&gt;  &lt;a href=&#34;https://twitter.com/hashtag/IMV?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#IMV&lt;/a&gt; &lt;br&gt;👨‍⚕️👩‍⚕️ 🚑 🚑 🚑&lt;a href=&#34;https://twitter.com/European_EMS?ref_src=twsrc%5Etfw&#34;&gt;@European_EMS&lt;/a&gt; &lt;a href=&#34;https://twitter.com/FreddyLippert?ref_src=twsrc%5Etfw&#34;&gt;@FreddyLippert&lt;/a&gt; &lt;a href=&#34;https://t.co/Ox6q3vtm6b&#34;&gt;pic.twitter.com/Ox6q3vtm6b&lt;/a&gt;&lt;/p&gt;&amp;mdash; SAMUR - Prot. Civil (@SAMUR_PC) &lt;a href=&#34;https://twitter.com/SAMUR_PC/status/1122196864609280000?ref_src=twsrc%5Etfw&#34;&gt;April 27, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;notable-mentions&#34;&gt;Notable mentions&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;sociolance&#34;&gt;Sociolance&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;./images/socialance.jpg&#34; alt=&#34;Socialance&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;small&#34; href=&#34;https://twitter.com/Skyder3n/status/1122090846575366144&#34;&gt;@Skyder3n&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;balconing&#34;&gt;Balconing&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube-nocookie.com/embed/_wXHrxj5ylM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
@@ -182,6 +352,126 @@
 &lt;li&gt;Staff who intubate should train for soiled airways&lt;/li&gt;
 &lt;li&gt;Consider suction without vent (vacuum control) hole&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EMS2019 Madrid Oral abstracts and posters</title>
+      <link>/post/ems2019-oral-abstracts/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ems2019-oral-abstracts/</guid>
+      <description>
+
+&lt;h2 id=&#34;abstracts&#34;&gt;Abstracts&lt;/h2&gt;
+
+&lt;p&gt;All abstracts were published in a &lt;a href=&#34;https://bmjopen.bmj.com/content/9/Suppl_2&#34; target=&#34;_blank&#34;&gt;BMJ Open suppment&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;evaluation-of-dispatch-outcomes-and-staffing-of-the-copenhagen-mobile-health-and-social-care-unit&#34;&gt;Evaluation of dispatch outcomes and staffing of the copenhagen mobile health and social care unit&lt;/h2&gt;
+
+&lt;p&gt;Authors: SL Østergaard, RM Lyngby&lt;/p&gt;
+
+&lt;p&gt;Interesting concept introduced in Copenhagen, where they have a dediated &amp;lsquo;socal ambulance&amp;rsquo;. Crewed by social worker with experience of &amp;lsquo;working on the street&amp;rsquo; and a paramedic. 3,000 incidents per year. Prdominantly dispatched to the homeless or patients with a social care issue. &lt;a href=&#34;https://bmjopen.bmj.com/content/9/Suppl_2/A13.1&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;Background: The mobile health-/social care unit (MHSCU) is a specialized unit within the Emergency Medical Services (EMS) in the Capital Region of Denmark. It provides acute social care for social deprived citizens and is staffed with a social worker and a paramedic. This study was to evaluate the MHSCU-dispatch outcomes and the combination of paramedical and social effort.&lt;/p&gt;
+
+&lt;p&gt;Method Data on the total number of MHSCU dispatches and outcomes in 2016 and 2017 was retrieved from the dispatch system operated by EMS Copenhagen and descriptively analyzed.&lt;/p&gt;
+
+&lt;p&gt;Results MHSCU was dispatched 2976 times. Of these 384 patients (12.9%) were brought to a somatic emergency department (ED) and 255 (8.6%) to a psychiatric ED. A total of 355 patients (11.9%) were left to selfcare while 196 (6.6%) were brought to a shelter. Referred from EMS was 41 (1.4%) and referred to EMS was 4 (0.1%). referred to police was 13 (0.4%). In 1386 (46.6%) cases MHSCU were doing proactive work, citizen had left scene or MHSCU was cancelled. The remaining 342 (11.5%) were ‘unknown’.&lt;/p&gt;
+
+&lt;p&gt;Conclusion Based on the low referral to emergency ambulances and police, the dispatch of MHSCU seems well-prioritized. Dispatches-outcome also indicate the need for both paramedical and social staffing as there is an approximately even distribution between health related and social related referral. This study concludes that a MHSCU can serve as a valuable resource in EMS systems.&lt;/p&gt;
+
+&lt;h2 id=&#34;posters&#34;&gt;Posters&lt;/h2&gt;
+
+&lt;p&gt;There were loads of posters on display. Here are a few that caught my eye&amp;hellip;&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./images/balconing.jpeg&#34; alt=&#34;English tourists throwing themselves off balconies...&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    English tourists throwing themselves off balconies&amp;hellip;
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./images/spinal-immob.jpeg&#34; alt=&#34;Patient experience of spinal immobilisation&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Patient experience of spinal immobilisation
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;music-on-ambulances&#34;&gt;Music on ambulances&lt;/h3&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./images/Impact%20of%20intervention%20with%20music%20in%20doses%20of%20drugs%20administered%20to%20patients%20with%20acute%20cardiovascular%20disease%20during%20transport.jpg&#34; alt=&#34;Music heals the heart...&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Music heals the heart&amp;hellip;
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./images/Music%20Therapy%20in%20Advance%20Life%20Support%20Units%20Influence%20on%20the%20Vital%20Sing%20of%20the%20patient%20with%20acute%20cardiovascular%20disease.jpg&#34; alt=&#34;Not sure if &amp;#39;vital sing&amp;#39; is a typo or not...&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Not sure if &amp;lsquo;vital sing&amp;rsquo; is a typo or not&amp;hellip;
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
 </description>
     </item>
     
@@ -416,45 +706,6 @@
 
 
 &lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>EMS2019 Madrid Oral abstracts and posters</title>
-      <link>/post/ems2019-oral-abstracts/</link>
-      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/ems2019-oral-abstracts/</guid>
-      <description>
-
-&lt;h2 id=&#34;enganging-1st-responders-using-an-app-in-paris&#34;&gt;Enganging 1st responders using an app in Paris&lt;/h2&gt;
-
-&lt;p&gt;This presentation was given by Lionel Lamhaut. He stated that the mean response time in France is 14 mins. Recent change in French law means that citizens are no longer liable for adverse events that occur secondary to administering care to others.&lt;/p&gt;
-
-&lt;p&gt;Developed &lt;a href=&#34;https://sauvlife.fr/&#34; target=&#34;_blank&#34;&gt;Citizen rescuer app&lt;/a&gt;, similar to &lt;a href=&#34;https://www.goodsamapp.org/&#34; target=&#34;_blank&#34;&gt;GoodSAM&lt;/a&gt; and has video conferencing too! Highlighted importance of contacting responders to check they are okay (Zijlstra, J. A., Beesems, S. G., De Haan, R. J., &amp;amp; Koster, R. W. (2015). Psychological impact on dispatched local lay rescuers performing bystander cardiopulmonary resuscitation. Resuscitation, 92, 115–121. &lt;a href=&#34;https://doi.org/10.1016/j.resuscitation.2015.04.028&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.resuscitation.2015.04.028&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;Interestingly, they send &amp;lsquo;citizens&amp;rsquo; into people&amp;rsquo;s private residences too, which I don&amp;rsquo;t think GoodSAM do.&lt;/p&gt;
-
-&lt;h2 id=&#34;dispatch-of-volunteer-citizen-responders-by-smartphone-apps&#34;&gt;Dispatch of volunteer citizen responders by smartphone apps&lt;/h2&gt;
-
-&lt;p&gt;Linn Andelius discussed another smartphone app in Copenhagen. Members of the public are activated bia app. AED location and times of availability are known so responders only sent to AEDs that are available.&lt;/p&gt;
-
-&lt;p&gt;Media coverage leads to surge of sign-ups. Following a news piece, 1,000 additional sign-ups. Currently 48,103 registered with 98% trained in CPR.&lt;/p&gt;
-
-&lt;p&gt;When cardiac arrest comes in within 1,800m of phone, 5 sent. 1 person sent to do CPR, 4 are sent for an AED.&lt;/p&gt;
-
-&lt;p&gt;Debriefing is provided (recognised that managing psychological distress important) and responders are not sent to:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;TCA&lt;/li&gt;
-&lt;li&gt;&amp;lt;8 years&lt;/li&gt;
-&lt;li&gt;When no AED is required&lt;/li&gt;
-&lt;li&gt;Caller is not with patient.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;the-international-experience-with-goodsam-as-a-first-responder-app-and-future-perspectives&#34;&gt;The international experience with GoodSam as a first responder app and future perspectives&lt;/h2&gt;
-
-&lt;p&gt;Mark Wilson spoke about GoodSam. Showed pulse assessment by pointing camera at face of patient.&lt;/p&gt;
 </description>
     </item>
     

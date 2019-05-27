@@ -89,17 +89,22 @@
   </url>
   
   <url>
+    <loc>/post/ems2019-oral-abstracts/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talk/satiated-cqdf/</loc>
     <lastmod>2019-05-22T13:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/ems2019-stroke/</loc>
-    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/ems2019-oral-abstracts/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -117,11 +122,6 @@
     <loc>/tags/ohca/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
