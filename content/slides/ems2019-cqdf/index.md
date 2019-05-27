@@ -83,7 +83,7 @@ title: EMS2019 Madrid
 ## Recognition
 
 + FAST best of a bad lot
-+ 100 patients screend with FAST
++ 100 patients screened with FAST
   + 62 have stroke/TIA
   + 7 missed
 
@@ -94,7 +94,7 @@ title: EMS2019 Madrid
 + Data linkage project just about to commence in England
   + Will calculate total patient journey time
   + Aiming to justify specialist centres with longer ambulance journey times
-+ TR not enthusiatic about stroke ambulances
++ TR not enthusiastic about stroke ambulances
 + Shortening door to needle time important
   + Pre-alerts
   + Stroke team waiting
@@ -114,7 +114,7 @@ title: EMS2019 Madrid
 
 ---
 
-## Post-MAJAX activites
+## Post-MAJAX activities
 + Prepare for next major incident
 + Physical and psychological cleaning after current incident required
 + Debrief responders
@@ -123,13 +123,13 @@ title: EMS2019 Madrid
 + Prevent rumours (talk about what happened)
 
 ---
-## Post-MAJAX activites
+## Post-MAJAX activities
  + Take part in memorial ceremonies
  + Prepare for press and politician communication
  + Inform colleagues and other professionals
  + Prepare for the question - ‘Do you need more money?’
- + What’s next (check for next targetable event(s))
- + Beware of the anniverary
+ + What’s next (check for next targetable event(s))?
+ + Beware of the anniversary
 
 ---
 
@@ -164,3 +164,8 @@ title: EMS2019 Madrid
 ## Balconing
 
 {{< youtube _wXHrxj5ylM >}}
+
+---
+
+# El fin
+
